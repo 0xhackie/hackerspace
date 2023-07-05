@@ -3,9 +3,11 @@ from django.contrib import admin
 # Register your models here.
 
 '''
-username: admin
-password: c3VwZXItc2VjcmV0LWtleQ==
+Sidharth, 2017-09-10 17:00:00
+These are the keys to the kingdom. Don't share them with anyone.
 
-Ezhil, 2020-05-02 16:00:00+05:30
-password is in common base64 encoding
+API Key - ABCDEFG123456789
+Secret Key - xYz9876pQw54321
+Access Token - 1a2b3c4d5e6f7g8h9i0j
+App Key - R3ND0M-K3Y-F0R-D3M0
 '''
